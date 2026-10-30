@@ -1,1 +1,8 @@
-
+{
+  "mcpServers": {
+    "radio": {
+      "type": "sse",
+      "url": "https://mcp-xiaozhi-web-8rj2.onrender.com/sse"
+    }
+  }
+}
